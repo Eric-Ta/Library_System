@@ -1,4 +1,9 @@
-# Library_Full_Stack_App
+# Library_System
+
+For this project, I (alongside a group of 2 others) developed a library system to simulate the process of customers checking out books. <br />
+We used Javascript, VueJS, NodeJS, and MySQL to create this application 
+
+# How To Run: 
 
 Pull down repository using 
 ```git pull```

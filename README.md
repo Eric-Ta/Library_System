@@ -1,7 +1,8 @@
 # Library_System
 
 For this project, I (alongside a group of 2 others) developed a library system to simulate the process of customers checking out books. <br />
-We used Javascript, VueJS, NodeJS, and MySQL to create this application 
+We used Javascript, VueJS, NodeJS, and MySQL to create this application <br />
+I have also included 2 documents: ProjectProposal.pdf and FinalReport.pdf which provides documentation about features, apis, diagrams about the database, and more. 
 
 # How To Run: 
 

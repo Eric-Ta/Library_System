@@ -4,6 +4,11 @@ For this project, I (alongside a group of 2 others) developed a library system t
 We used Javascript, VueJS, NodeJS, and MySQL to create this application <br />
 I have also included 2 documents: ProjectProposal.pdf and FinalReport.pdf which provides documentation about features, apis, diagrams about the database, and more. 
 
+# Postman
+
+Postman Documentation for the REST API: <br />
+https://documenter.getpostman.com/view/20047972/UzBvFi9e
+
 # How To Run: 
 
 Pull down repository using 
